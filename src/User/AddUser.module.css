@@ -1,0 +1,22 @@
+
+.formControl{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+.formControl label{
+    margin: 8px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.formControl input{
+    margin:5px;
+    padding: 6px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+}
